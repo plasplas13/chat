@@ -1,13 +1,11 @@
 {
-  "name": "big-agi",
+  "name": "plasplas13_chat",
   "version": "1.14.1",
   "private": true,
-  "author": "Enrico Ros <enrico.ros@gmail.com>",
-  "repository": "https://github.com/enricoros/big-agi",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
+    "start": "next start -p 5000",
     "lint": "next lint",
     "postinstall": "prisma generate",
     "db:push": "prisma db push",

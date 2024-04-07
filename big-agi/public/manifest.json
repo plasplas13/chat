@@ -1,9 +1,9 @@
 {
-  "name": "big-AGI",
-  "short_name": "big-AGI",
+  "name": "plasplas13_chat",
+  "short_name": "plasplas13_chat",
   "theme_color": "#32383E",
   "background_color": "#9FA6AD",
-  "description": "Personal AGI App",
+  "description": "Personal Chat App",
   "display": "standalone",
   "start_url": "/",
   "icons": [
